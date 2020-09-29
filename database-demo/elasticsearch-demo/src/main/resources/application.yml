@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: 192.168.25.130:9300  # 集群节点 注意端口是9300
+      cluster-name: docker-cluster  # 集群名称 必需配置

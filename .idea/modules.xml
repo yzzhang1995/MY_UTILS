@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MY_UTILS.iml" filepath="$PROJECT_DIR$/MY_UTILS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database-demo/database-demo.iml" filepath="$PROJECT_DIR$/database-demo/database-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database-demo/elasticsearch-demo/elasticsearch-demo.iml" filepath="$PROJECT_DIR$/database-demo/elasticsearch-demo/elasticsearch-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-queue-demo/message-queue-demo.iml" filepath="$PROJECT_DIR$/message-queue-demo/message-queue-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database-demo/mongodb-demo/mongodb-demo.iml" filepath="$PROJECT_DIR$/database-demo/mongodb-demo/mongodb-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database-demo/redis-demo/redis-demo.iml" filepath="$PROJECT_DIR$/database-demo/redis-demo/redis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-queue-demo/rocketmq-demo/rocketmq-demo.iml" filepath="$PROJECT_DIR$/message-queue-demo/rocketmq-demo/rocketmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo/springboot-demo.iml" filepath="$PROJECT_DIR$/springboot-demo/springboot-demo.iml" />
+    </modules>
+  </component>
+</project>

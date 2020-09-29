@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-demo:war">
+    <output-path>$PROJECT_DIR$/springboot-demo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springboot-demo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springboot-demo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
